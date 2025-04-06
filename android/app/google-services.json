@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "38351618042",
+    "firebase_url": "https://crudappflutter-d9464-default-rtdb.firebaseio.com",
+    "project_id": "crudappflutter-d9464",
+    "storage_bucket": "crudappflutter-d9464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38351618042:android:b0d481f82ce48eb1f32e43",
+        "android_client_info": {
+          "package_name": "com.fast5.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0vkPDAh5hp_0hbn5MhKrSondbLO88Tb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38351618042:android:4c47ccd79b028f69f32e43",
+        "android_client_info": {
+          "package_name": "com.fast5.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0vkPDAh5hp_0hbn5MhKrSondbLO88Tb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
